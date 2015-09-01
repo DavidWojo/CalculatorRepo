@@ -7,4 +7,14 @@ public class Calculator
 		return x + y;
 	}
 	
+	public int sub2Ints(int x, int y)
+	{
+		return x - y;
+	}
+	
+	public int mul2Ints(int x, int y)
+	{
+		return x * y;
+	}
+	
 }
